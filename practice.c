@@ -1,4 +1,5 @@
 #include <stdio.h>
+//C言語の練習用リポジトリです。
 int main(void)
 {
     int num;
